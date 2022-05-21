@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Day1-Mobileos/static/css/main.420a07fd.css",
+    "main.js": "/Day1-Mobileos/static/js/main.f2aac869.js",
+    "static/js/787.ad98bcd2.chunk.js": "/Day1-Mobileos/static/js/787.ad98bcd2.chunk.js",
+    "index.html": "/Day1-Mobileos/index.html",
+    "main.420a07fd.css.map": "/Day1-Mobileos/static/css/main.420a07fd.css.map",
+    "main.f2aac869.js.map": "/Day1-Mobileos/static/js/main.f2aac869.js.map",
+    "787.ad98bcd2.chunk.js.map": "/Day1-Mobileos/static/js/787.ad98bcd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.420a07fd.css",
+    "static/js/main.f2aac869.js"
+  ]
+}
